@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.db
+
+# RAG / data persistence
+backend/data/
+
+# Node
+node_modules/
+.next/
+out/
+next-env.d.ts
+
+# Env
+.env
+.env.local
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
